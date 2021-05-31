@@ -1,5 +1,4 @@
 # Operation-Research
-OR project on Application of Queuing Theory in Automobile Assembly Line Problem
 
 Queuing theory refers to the mathematical study of the formation, function, and 
 congestion of waiting lines, or queues.
